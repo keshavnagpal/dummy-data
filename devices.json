@@ -6,6 +6,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "5ee419e5979f5b50",
+        "key": "az12",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "33566470bd5617af",
         "key": "sfe700monthly",
         "expirydate": "28-02-2026",
