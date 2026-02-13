@@ -6,6 +6,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "34b1174378766270",
+        "key": "vi1",
+        "expirydate": "31-11-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "5ee419e5979f5b50",
         "key": "az12",
         "expirydate": "31-12-2026",
